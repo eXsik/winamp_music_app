@@ -1,4 +1,4 @@
-# Project Lyrics
+# Project Winamp Music App
 
 Develop an elegant React.js Music Application. 
 
